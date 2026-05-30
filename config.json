@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "routervarse",
+        "uuid": 406608,
+        "checksum": "k9witd"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
